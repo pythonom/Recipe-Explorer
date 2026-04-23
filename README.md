@@ -1,8 +1,5 @@
 # Smart Recipe Explorer 🍲
 
-## 🚀 Live Demo
-https://your-vercel-link
-
 ## 📌 Project Overview
 A React-based web app that allows users to search, view, and manage recipes with a modern UI and optimized performance.
 
